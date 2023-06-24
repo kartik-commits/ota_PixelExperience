@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Kartik Lashkare (kattya9512)",
+			"oem": "Poco",
+			"device": "POCO X5 Pro",
+			"filename": "PixelExperience_redwood-13.0-20230624-0927-UNOFFICIAL.zip",
+			"download": "",
+			"timestamp": 1687596258,
+			"sha256": "0a24fe6d19a25145314282d29d3a08371bbd9e96b83db6e8d59ca5b966d64f4b",
+			"size": 16116347552,
+			"version": "1.0.0",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Kartik_Ane_Nenu",
+			"dt": "https://github.com/lineage-redwood/android_device_xiaomi_redwood",
+			"common-dt": "https://github.com/lineage-redwood/android_device_xiaomi_sm7325-common",
+			"kernel": "https://github.com/kattya9512/android_kernel_xiaomi_redwood"
+		}
+	]
+}

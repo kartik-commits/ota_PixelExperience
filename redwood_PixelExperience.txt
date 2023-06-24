@@ -1,0 +1,13 @@
+Initial Build
+
+Working :
+
+	Most functions
+	
+	
+Not Working :
+	
+	Fast Charging
+	Dolby Vision and HDR in Netflix
+	
+	
