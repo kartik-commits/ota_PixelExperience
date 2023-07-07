@@ -1,3 +1,7 @@
+
+Join here for help  -  https://t.me/redwood_PE
+
+
 Flashing Guide
 
 
