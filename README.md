@@ -1,5 +1,5 @@
 
-Join here for help  -  https://t.me/redwood_PE
+Join here for support  -  https://t.me/redwood_PE
 
 
 Flashing Guide
